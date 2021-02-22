@@ -1,0 +1,15 @@
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\bin\Debug\CustomerFeedback.exe.config
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\bin\Debug\CustomerFeedback.exe
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\bin\Debug\CustomerFeedback.pdb
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.Dashboard.resources
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.Login.resources
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.Properties.Resources.resources
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.csproj.GenerateResource.cache
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.csproj.CoreCompileInputs.cache
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.exe
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.pdb
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.EnterFeedback.resources
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.Report.resources
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.AddCriteria.resources
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.csprojAssemblyReference.cache
+D:\desktop\study material\Year3\Application Development\coursework\CustomerFeedback\obj\Debug\CustomerFeedback.ChartReport.resources
